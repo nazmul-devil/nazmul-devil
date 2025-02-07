@@ -1,4 +1,19 @@
-## Hi there 👋
+  # Hi there 👋, I'm [Md. Nazmul Hossen]
+
+- 🔭 I’m currently studying **Electrical and Electronic Engineering (Level-3, Semester-II)** with a passion for **frontend web development**. 
+- 🌱 Learning *Embedded Systems, Power Electronics & Frontend Web Development*
+- 💡 Passionate about *circuit design, programming & UI/UX*
+- 💻 **Tech Stack:**  
+- Frontend: **HTML | CSS | Tailwind | JavaScript | React**  
+- Backend & Database: **Node.js | Express.js | MongoDB | Firebase**  
+- 🚀 Currently learning and building cool projects!
+- 📫 How to reach me: [ Email- nazmulhossen.hstu.21@gmail.com /WhatsApp- https://wa.me/+8801600106065/ LinkedIn (loading) / Github- https://github.com/nazmul-devil ]
+
+- 📌 Open to collaboration and new opportunities.
+  Let's connect and code together! 🔥
+
+  
+
 
 <!--
 **nazmul-devil/nazmul-devil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
