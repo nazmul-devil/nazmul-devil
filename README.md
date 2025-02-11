@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying **Electrical and Electronic Engineering (Level-3, Semester-II)** with a passion for **frontend web development**. 
 - 🌱 Learning *Embedded Systems, Power Electronics & Frontend Web Development*
-- 💡 Passionate about *circuit design, programming & UI/UX*
+- 💡 Passionate about *circuit design, programming & frontend web development*
 - 💻 **Tech Stack:**  
 - Frontend: **HTML | CSS | Tailwind | JavaScript | React**  
 - Backend & Database: **Node.js | Express.js | MongoDB | Firebase**  
